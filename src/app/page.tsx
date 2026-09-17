@@ -14,25 +14,25 @@ export default function Home() {
             문정은
           </h1>
           <p className="text-sm font-medium text-indigo-600 dark:text-indigo-400">
-            Student &middot; Learner
+            Frontend Developer
           </p>
         </div>
 
         {/* 소개글 */}
         <p className="text-base leading-relaxed text-zinc-600 dark:text-zinc-300">
-          안녕하세요! 바이브 코딩을 배우고 있는 대학생입니다.
+          React와 Next.js로 웹을 만드는 프론트엔드 개발자입니다. UI/UX에 관심이 많고, 읽기 좋은 코드와 빠른 사용자 경험을 함께 추구합니다. 매일 조금씩 더 나은 코드를 작성하는 것을 목표로 합니다. ☕
         </p>
 
         {/* 관심사 / 스킬 태그 */}
         <div className="flex flex-wrap justify-center gap-2 pt-1">
           <span className="rounded-full bg-zinc-100 px-3 py-1 text-xs font-medium text-zinc-600 dark:bg-zinc-800 dark:text-zinc-300">
-            💻 바이브 코딩
+            💻 Frontend
           </span>
           <span className="rounded-full bg-zinc-100 px-3 py-1 text-xs font-medium text-zinc-600 dark:bg-zinc-800 dark:text-zinc-300">
-            🎓 대학생
+            🚀 Next.js / React
           </span>
           <span className="rounded-full bg-zinc-100 px-3 py-1 text-xs font-medium text-zinc-600 dark:bg-zinc-800 dark:text-zinc-300">
-            🚀 Next.js
+            ✨ Problem Solver
           </span>
         </div>
 
