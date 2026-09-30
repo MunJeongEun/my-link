@@ -20,7 +20,7 @@ const socialLinks: SocialLinkItem[] = [
   {
     id: "social-velog",
     name: "Velog",
-    url: "https://velog.io/@jeongeun",
+    url: "https://velog.io/",
     icon: "velog",
   },
   {
