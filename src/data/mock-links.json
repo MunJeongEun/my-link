@@ -1,0 +1,123 @@
+{
+  "sections": [
+    {
+      "id": "section-projects",
+      "title": "MY PROJECTS",
+      "order": 1
+    },
+    {
+      "id": "section-sns",
+      "title": "MY SNS & BLOG",
+      "order": 2
+    },
+    {
+      "id": "section-contact",
+      "title": "CONTACT & ETC",
+      "order": 3
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "title": "GitHub 저장소",
+      "subtitle": "진행 중인 프로젝트와 오픈소스 코드를 볼 수 있어요",
+      "url": "https://github.com/MunJeongEun",
+      "icon": "github",
+      "badge": "인기",
+      "sectionId": "section-projects",
+      "order": 1,
+      "isExternal": true,
+      "isActive": true,
+      "clickCount": 142,
+      "createdAt": "2026-03-01T10:00:00Z",
+      "updatedAt": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "link-2",
+      "title": "기술 블로그 (Velog)",
+      "subtitle": "학습한 프론트엔드 지식과 개발 회고를 꾸준히 기록해요",
+      "url": "https://velog.io/@jeongeun",
+      "icon": "velog",
+      "badge": "최신글",
+      "sectionId": "section-sns",
+      "order": 2,
+      "isExternal": true,
+      "isActive": true,
+      "clickCount": 289,
+      "createdAt": "2026-02-15T09:00:00Z",
+      "updatedAt": "2026-03-28T18:20:00Z"
+    },
+    {
+      "id": "link-3",
+      "title": "LinkedIn 프로필",
+      "subtitle": "이력과 커리어 경험을 자세히 확인해 보세요",
+      "url": "https://www.linkedin.com/in/jeongeun-mun",
+      "icon": "linkedin",
+      "sectionId": "section-contact",
+      "order": 3,
+      "isExternal": true,
+      "isActive": true,
+      "clickCount": 78,
+      "createdAt": "2026-01-20T11:00:00Z",
+      "updatedAt": "2026-02-10T12:00:00Z"
+    },
+    {
+      "id": "link-4",
+      "title": "인터랙티브 웹 포트폴리오",
+      "subtitle": "Next.js와 Three.js로 제작한 개인 인터랙티브 쇼케이스",
+      "url": "https://jeongeun-portfolio.vercel.app",
+      "icon": "code",
+      "badge": "추천",
+      "sectionId": "section-projects",
+      "order": 4,
+      "isExternal": true,
+      "isActive": true,
+      "clickCount": 356,
+      "createdAt": "2026-03-05T13:00:00Z",
+      "updatedAt": "2026-03-25T16:00:00Z"
+    },
+    {
+      "id": "link-5",
+      "title": "개발 유튜브 채널",
+      "subtitle": "웹 개발 팁과 코딩 브이로그 영상을 공유합니다",
+      "url": "https://youtube.com/@dev-jeongeun",
+      "icon": "youtube",
+      "badge": "NEW",
+      "sectionId": "section-sns",
+      "order": 5,
+      "isExternal": true,
+      "isActive": true,
+      "clickCount": 94,
+      "createdAt": "2026-03-10T15:00:00Z",
+      "updatedAt": "2026-03-29T10:15:00Z"
+    },
+    {
+      "id": "link-6",
+      "title": "일상을 담은 인스타그램",
+      "subtitle": "일상과 개발자 라이프스타일 사진을 올려요",
+      "url": "https://instagram.com/jeongeun.dev",
+      "icon": "instagram",
+      "sectionId": "section-sns",
+      "order": 6,
+      "isExternal": true,
+      "isActive": true,
+      "clickCount": 210,
+      "createdAt": "2026-01-10T08:00:00Z",
+      "updatedAt": "2026-03-20T09:40:00Z"
+    },
+    {
+      "id": "link-7",
+      "title": "이메일로 커피챗 제안하기",
+      "subtitle": "프로젝트 협업 및 커피챗 문의는 언제든 환영해요",
+      "url": "mailto:jeongeun.dev@kw.ac.kr",
+      "icon": "mail",
+      "sectionId": "section-contact",
+      "order": 7,
+      "isExternal": false,
+      "isActive": true,
+      "clickCount": 45,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}
